@@ -1,2 +1,2 @@
 # hello-world
-Testing github - it's about tiem that I learn this stuff.
+Testing github - it's about time that I learn this stuff.
